@@ -84,6 +84,8 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
+
+
 ![386961306-875f3fe9-9d9b-49e8-a799-85bbf3ca0663](https://github.com/user-attachments/assets/119dde0d-0a9f-4944-a70f-6567738c8aa1)
 
 
